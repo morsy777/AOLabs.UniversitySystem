@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnivercitySystem.Enums
+{
+    public enum GpaType
+    {
+        Gpa,
+        Grades
+    }
+}
